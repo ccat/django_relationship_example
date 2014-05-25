@@ -1,4 +1,6 @@
 django_relationship_example
 ===========================
 
-Tiny Django relationship examples
+Tiny Django's relationship or ForeignKey, OneToOneField and ManyToManyField example.
+
+
